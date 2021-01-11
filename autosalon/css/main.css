@@ -1,0 +1,20 @@
+.formclass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+
+}
+
+.msg{
+    border: 2px solid rgb(247, 91, 19);
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+
+}
+.logout{
+    color: rgb(189, 28, 109);
+    text-decoration: none;
+}

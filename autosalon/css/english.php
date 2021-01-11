@@ -1,0 +1,31 @@
+<?php
+$auto="Cars";
+$welcom="Welcom";
+$title= 'AUTO-MOTO-VELO SALON "YAK"';
+$home="Home page";
+$transport="Transport";
+$index_goods = "You can place an order right now";
+$moto="Moto";
+$contact="Сontacts";
+$orders='Your orders';
+$admin='Administration';
+$categories='Categories';
+$goods="Goods";
+$spares="Spares";
+$users="Users";
+$exit = "Exit";
+$sign_in="Sign in";
+$customer="Dear Friend,";
+$basket="Shopping basket";
+$send="Send";
+$search="Search";
+$sort="Sort";
+$light = "Light";
+$dark = "Dark";
+$must= "Make a choice of goods";
+$search_id="Search by id";
+$search_name="Search by name";
+$check = "Check your checkout.";
+$no_orders= "You have no orders";
+$back= "back to product selection"
+?>
