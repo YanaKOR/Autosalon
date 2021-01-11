@@ -19,7 +19,7 @@ php project
 
 .cd domains
 .composer self-update
-.git clone https://github.com/YanaKOR/PHP_PROJECT.git
+.git clone https://github.com/YanaKOR/Autosalon
 .cd PHP_PROJECT
 .composer install
 .создать базу с именем auto_moto_salon  и перейти в нее
