@@ -25,12 +25,8 @@ php project
 .создать базу с именем auto_moto_salon  и перейти в нее
 .импортировать файл auto_moto_salon.sql
 .на основании файла .env.example создать файл .env
-.php artisan key:generate
-.в файле .env  подключиться к базе Laravel
-.php artisan serve
 .http://localhost:82
 
 # Used technologies
 .php 
-.laravel
 .mysql
