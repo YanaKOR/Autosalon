@@ -15,7 +15,7 @@ php project
 ·Реализация возможности редактирования/добавления/удаления данных в базе данных через администраторскую зону сайта;
 .Личный кабинет с определением роли пользователя( user, admin)
 .Реализация возможности заказа товара через корзину.
-# Imformation about installing
+# Information about installing
 
 .cd domains
 .composer self-update
