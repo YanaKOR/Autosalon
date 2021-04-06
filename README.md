@@ -17,15 +17,6 @@ php project
 .Реализация возможности заказа товара через корзину.
 # Information about installing
 
-.cd domains
-.composer self-update
-.git clone https://github.com/YanaKOR/Autosalon
-.cd PHP_PROJECT
-.composer install
-.создать базу с именем auto_moto_salon  и перейти в нее
-.импортировать файл auto_moto_salon.sql
-.на основании файла .env.example создать файл .env
-.http://localhost:82
 
 # Used technologies
 .php 
